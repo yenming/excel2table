@@ -1,0 +1,24 @@
+{
+  "name": "excel2table",
+  "version": "1.0.0",
+  "description": "excel to excel (for html table )",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenming/excel2table.git"
+  },
+  "author": "hym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenming/excel2table/issues"
+  },
+  "homepage": "https://github.com/yenming/excel2table#readme",
+  "dependencies": {
+    "csv-parse": "^4.12.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
